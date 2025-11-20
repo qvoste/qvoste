@@ -9,8 +9,8 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
-<img src="https://i.gifer.com/4SHX.gif" height="50" />
-<img src="https://i.gifer.com/6kk.gif" height="50" />
+<img src="https://i.gifer.com/4SHX.gif" height="54" />
+<img src="https://i.gifer.com/6kk.gif" height="54" />
 <br><br><br>
     
 <!-- Соцсети -->
