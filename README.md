@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/qvoste/qvoste/blob/main/1111111.jpg" width="15%" align="right" />
+<img src="https://github.com/qvoste/qvoste/blob/main/1111111.jpg" width="16%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=500&color=FFB347&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=120&lines=Hello+hello;I'm+a+chill+Android+Dev+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
