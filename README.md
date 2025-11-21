@@ -21,4 +21,7 @@
 [![dev.to](https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/qvoste)
 
 </div>
+
+[![Page](https://svg.bookmark.style/api?url=https://github.com/qvoste/Page&mode=dark&style=horizontal)](https://github.com/qvoste/Page)
+
 </div>
