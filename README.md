@@ -14,15 +14,11 @@
 <br><br><br>
     
 <!-- Соцсети -->
-<div style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
-  <a href="https://t.me/qVoste">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" height="52" style="transition: transform 0.3s; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <a href="https://leetcode.com/u/qvoste/">
-    <img src="https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white" height="52" style="transition: transform 0.3s; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <a href="https://dev.to/qvoste">
-    <img src="https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=black" height="52" style="transition: transform 0.3s; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"  onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qVoste)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/qvoste/)
+[![dev.to](https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/qvoste)
+
 </div>
 </div>
