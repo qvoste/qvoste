@@ -23,12 +23,3 @@
 </div>
 
 </div>
-
-<br><br>
-<div align="center">
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![Page](https://svg.bookmark.style/api?url=https://github.com/qvoste/Page&mode=dark&style=horizontal)](https://github.com/qvoste/Page)
-
-</div>
