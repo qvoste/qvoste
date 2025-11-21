@@ -22,6 +22,12 @@
 
 </div>
 
+</div>
+
+<br><br><br><br><br>
+
+<div align="center">
+
 [![Page](https://svg.bookmark.style/api?url=https://github.com/qvoste/Page&mode=dark&style=horizontal)](https://github.com/qvoste/Page)
 
 </div>
